@@ -15,5 +15,3 @@ try:
 finally:
     p.stop()
     GPIO.cleanup()
-© 2022 GitHub, Inc.
-Terms
